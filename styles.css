@@ -54,7 +54,7 @@ h3{
     color: hsl(228, 45%, 44%);
 }
 
-@media screen and (max-width: 770px){
+@media screen and (min-width: 770px){
     .photo{
         display: none;
     }
